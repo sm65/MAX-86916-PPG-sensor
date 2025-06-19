@@ -1,0 +1,14 @@
+ERC report (1/26/2022 11:16:08 AM, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_issues]: Symbol '+1V8' has been modified in library 'power'.
+    ; Severity: warning (excluded)
+    @(187.96 mm, 99.06 mm): Symbol #PWR0101 [+1V8]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error (excluded)
+    @(41.91 mm, 149.86 mm): Symbol #PWR05 [+1V8] Pin 1 [+1V8, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; Severity: error (excluded)
+    @(110.49 mm, 69.85 mm): Symbol #PWR011 [+3V0] Pin 1 [+3V0, Power input, Line]
+
+ ** ERC messages: 3  Errors 2  Warnings 1
